@@ -54,6 +54,10 @@ body {
     background-color: var(--botão-azul-efeito);
 }
 
+.container-botao botao-secundario {
+    color: var(--branco-principal);
+}
+
 .botao-secundario {
     background-color: transparent;
     border:  2px solid var(--branco-principal);
