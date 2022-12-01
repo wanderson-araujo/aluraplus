@@ -54,7 +54,7 @@ body {
     background-color: var(--botão-azul-efeito);
 }
 
-.container-botao botao-secundario:hover {
+.botao-secundario:hover {
     color: var(--branco-principal);
 }
 
