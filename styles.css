@@ -54,13 +54,13 @@ body {
     background-color: var(--botão-azul-efeito);
 }
 
-.botao-secundario:hover {
-    color: var(--branco-principal);
-}
-
 .botao-secundario {
     background-color: transparent;
     border:  2px solid var(--branco-principal);
+}
+
+.botao-secundario:hover {
+    background-color: var(--botao-azul);
 }
 
 .container-aviso {
