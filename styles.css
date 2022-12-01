@@ -4,6 +4,7 @@
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'inter';
+    --botão-azul-efeito:var #0e1ef5;
 }
 
 body {
@@ -47,6 +48,10 @@ body {
     display: block;
     text-decoration: none;
     margin: 1em;
+}
+
+.container-botao:hover {
+    background-color: var(--botão-azul-efeito);
 }
 
 .botao-secundario {
